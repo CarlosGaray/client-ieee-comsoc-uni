@@ -1,0 +1,15 @@
+.header-carousel {
+  /* display: flex; */
+  /* flex-direction: row; */
+  overflow: hidden;
+  /* position: relative; */
+}
+
+/* .owl-carousel-item {
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+.owl-carousel-item.active {
+  opacity: 1;
+} */
